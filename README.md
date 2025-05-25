@@ -96,18 +96,3 @@ GitHub: Adil101010
 📃 License
 This project is licensed under the MIT License.
 
-yaml
-Copy
-Edit
-
----
-
-### ✅ Next Steps:
-
-1. Replace your current `README.md` with this updated one.
-2. Open terminal in your project folder and run:
-
-```bash
-git add README.md
-git commit -m "📄 Finalized professional README file"
-git push
